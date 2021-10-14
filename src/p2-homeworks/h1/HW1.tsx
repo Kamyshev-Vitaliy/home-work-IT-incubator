@@ -17,7 +17,6 @@ const HW1 = () => {
                      name={messageData.name}
                      message={messageData.message}
                      time={messageData.time}/>
-
             <hr/>
             {/*для личного творчества, могу проверить*/}
             {/*<AlternativeMessage/>*/}
